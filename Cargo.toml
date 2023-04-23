@@ -1,5 +1,5 @@
 [package]
-name = "base64-encode-decode-ui"
+name = "mobile-base64-ui"
 version = "0.0.0"
 edition = "2021"
 
@@ -12,6 +12,7 @@ wasm-bindgen = { version = "0.2", features = ["serde-serialize"] }
 wasm-bindgen-futures = "0.4"
 web-sys = "0.3"
 js-sys = "0.3"
+window-shadows = "0.2.1"
 base64 = "0.21.0"
 
 [workspace]

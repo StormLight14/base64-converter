@@ -2,12 +2,12 @@
   "build": {
     "beforeDevCommand": "trunk serve",
     "beforeBuildCommand": "trunk build",
-    "devPath": "http://localhost:1420",
+    "devPath": "http://0.0.0.0:1420",
     "distDir": "../dist",
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "base64-encode-decode",
+    "productName": "mobile-base64",
     "version": "0.0.0"
   },
   "tauri": {
@@ -27,7 +27,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "xyz.stormlightcandev.base64",
+      "identifier": "xyz.stormlightcandev.mobilebase64",
       "targets": "all"
     },
     "security": {
@@ -40,7 +40,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "base64-encode-decode",
+        "title": "mobile-base64",
         "width": 800,
         "height": 600
       }
