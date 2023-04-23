@@ -2,7 +2,7 @@
   "build": {
     "beforeDevCommand": "trunk serve",
     "beforeBuildCommand": "trunk build",
-    "devPath": "http://192.168.0.82:1420",
+    "devPath": "http://192.168.0.82:1421",
     "distDir": "../dist",
     "withGlobalTauri": true
   },
