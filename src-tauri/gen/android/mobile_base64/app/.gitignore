@@ -1,4 +1,0 @@
-/src/main/java/xyz/stormlightcandev/mobile_base64/generated
-/src/main/jniLibs/**/*.so
-/tauri.build.gradle.kts
-/proguard-tauri.pro

@@ -1,5 +1,5 @@
 [package]
-name = "mobile-base64-ui"
+name = "base64-converter-ui"
 version = "0.0.0"
 edition = "2021"
 
