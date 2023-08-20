@@ -1,5 +1,7 @@
 # Online Version
-https://stormlightcandev.xyz/base64/
+https://stormlight-base64.netlify.app/
+
+https://stormlightcandev.xyz/base64/ (down)
 
 ## How to use (source code)
 * install required prerequisites: https://tauri.app/v1/guides/getting-started/prerequisites
