@@ -4,7 +4,7 @@
 https://stormlight-base64.netlify.app/
 
 ## What is this?
-Base64 is a type of encoding for text. This converter you to convert from normal text to base64, and vice versa.
+Base64 is a type of encoding for text. This converter allows you to convert from normal text to base64, and vice versa.
 
 ## How to run source code
 * install required prerequisites: https://tauri.app/v1/guides/getting-started/prerequisites
